@@ -1,0 +1,12 @@
+sentence-transformers
+torch
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+nltk
+tqdm
